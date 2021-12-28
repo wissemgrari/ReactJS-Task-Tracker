@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run server`
+
+Deploying Fake Back-End Server Using JSON-SERVER in order to make HTTP requests.
+
 ### `npm start`
 
 Runs the app in the development mode.\
