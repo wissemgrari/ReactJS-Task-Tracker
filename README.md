@@ -9,6 +9,7 @@ In the project directory, you can run:
 ### `npm run server`
 
 Deploying Fake Back-End Server Using JSON-SERVER in order to make HTTP requests.
+Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
 
 ### `npm start`
 
