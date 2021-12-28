@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Deploying Fake Back-End Server Using JSON-SERVER in order to make HTTP requests.
 Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
+See the section about [JSON-SERVER](https://github.com/typicode/json-server) for more information.
 
 ### `npm start`
 
